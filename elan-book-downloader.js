@@ -1,5 +1,5 @@
 const settings = {
-  BOOK_ID: window.location.pathname.split('/').filter((item) => item).slice(-1),
+  BOOK_ID: Reader.documentId,
   BASE_URL: 'https://reader.lanbook.com/api/v1',
   DELAY_BETWEEN_REQUESTS: Number(prompt('How much delay between requests do you want?', 200)),
 };
