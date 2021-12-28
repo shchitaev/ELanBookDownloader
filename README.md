@@ -1,3 +1,3 @@
 # ELanBookDownloader
 This is fork https://github.com/Kamikozz/some-junk-projects
-(new 12.2021)
+(new script 12.2021)
